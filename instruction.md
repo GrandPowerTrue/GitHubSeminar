@@ -18,4 +18,9 @@
 
 > *git checkout master* – вернуться к актуальному состоянию и продолжить работу
 
-> *git diff* – увидеть разницу между текущим файлом и закоммиченным файлом
+> *git diff* – увидеть разницу между текущим файлом и закоммиченным файлом <p>
+## ***В подготовкедомашнего задания использовались следующие источники:*** <p>
+
+[Материалы по Markdown от конкурентов Skillbox](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/#stk-18)
+
+[Интересная статья по Markdown от www.diy.ru](http://www.diy.ru/info/markdown/#ssyilki-i-izobrazheniya)
