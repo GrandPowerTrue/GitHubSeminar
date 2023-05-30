@@ -36,3 +36,5 @@
 >> *git checkout [branch_name]* - переход к другой ветке
 
 >> *git merge [branch_name]* - слияние ветки branch_name с текущей веткой
+
+>> *git merge --abort* - отменить слияние, которое прошло с конфликтом
