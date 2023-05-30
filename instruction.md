@@ -32,3 +32,5 @@
 > *git branch -m [новое имя]* - переименование названия ветки
 
 > *git branch -d [branch_name]* - удаление ветки branch_name
+
+> *git checkout [branch_name]* - переход к другой ветке
