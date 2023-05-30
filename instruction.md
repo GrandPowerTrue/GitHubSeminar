@@ -27,11 +27,12 @@
 
 # Основные команды 2-го семинара
 
-> *git branch [branch_name]* - создаём ветку под названием branch_name
+>> *git branch [branch_name]* - создаём ветку под названием branch_name
 
-> *git branch -m [новое имя]* - переименование названия ветки
+>> *git branch -m [новое имя]* - переименование названия ветки
 
-> *git branch -d [branch_name]* - удаление ветки branch_name
+>> *git branch -d [branch_name]* - удаление ветки branch_name
 
-> *git checkout [branch_name]* - переход к другой ветке
+>> *git checkout [branch_name]* - переход к другой ветке
 
+>> *git merge [branch_name]* - слияние ветки branch_name с текущей веткой
