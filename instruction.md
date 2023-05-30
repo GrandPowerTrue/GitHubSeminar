@@ -24,3 +24,5 @@
 [Материалы по Markdown от конкурентов Skillbox](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/#stk-18)
 
 [Интересная статья по Markdown от www.diy.ru](http://www.diy.ru/info/markdown/#ssyilki-i-izobrazheniya)
+
+# Основные команды 2-го семинара
