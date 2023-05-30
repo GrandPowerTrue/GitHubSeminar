@@ -30,3 +30,5 @@
 > *git branch [branch_name]* - создаём ветку под названием branch_name
 
 > *git branch -m [новое имя]* - переименование названия ветки
+
+> *git branch -d [branch_name]* - удаление ветки branch_name
