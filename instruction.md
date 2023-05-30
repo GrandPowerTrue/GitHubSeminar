@@ -26,3 +26,7 @@
 [Интересная статья по Markdown от www.diy.ru](http://www.diy.ru/info/markdown/#ssyilki-i-izobrazheniya)
 
 # Основные команды 2-го семинара
+
+> *git branch [branch_name]* - создаём ветку под названием branch_name
+
+> *git branch -m "новое имя"* - переименование названия ветки
